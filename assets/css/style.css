@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/*Maybe swap benefits class for 'aside'*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/*vTry merging lead, brand, and cost into one class simply called benefitsv*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -160,7 +162,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/*^Try merging lead, brand, and cost into one class simply called benefits^*/
 
+/*vTry merging these into one class simply called main_images or something similarv*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -187,6 +191,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*^Try merging these into one class simply called main_images or something similar^*/
 
 .footer {
     padding: 30px;
